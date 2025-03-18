@@ -8,7 +8,9 @@ int main(){
     float b;
     b = 1.4;
 
-    char c = 'b';
+    // char c = 'b';
+    char c;
+    c = 'b'; //only put between single quotation ('...')
 
     return 0;
 }
