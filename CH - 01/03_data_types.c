@@ -1,5 +1,6 @@
-#include<stdio.h>
-int main(){
+#include <stdio.h>
+int main()
+{
     //  int a;
     // a = 1;
     int a = 1;
@@ -10,7 +11,7 @@ int main(){
 
     // char c = 'b';
     char c;
-    c = 'b'; //only put between single quotation ('...')
+    c = 'b'; // only put between single quotation ('...')
 
     return 0;
 }
