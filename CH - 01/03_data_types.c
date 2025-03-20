@@ -13,5 +13,8 @@ int main()
     char c;
     c = 'b'; // only put between single quotation ('...')
 
+    printf("The Value of a Is %d\n", a);
+    printf("The Value of  b Is %f\n", b);
+    printf("The Value of c Is %c\n", c);
     return 0;
 }
