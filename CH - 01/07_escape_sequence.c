@@ -6,7 +6,7 @@ int main()
     char ch = 'a';
     ch = 'c';
     ch = '/n';                        // Represent a New line
-    printf("Hey I'm Good\"\n  Nice"); // \" is present Double Quoate ("...") & We can also use Single Quoate('...').
+    printf("Hey I'm Good\"\n  Nice"); // \" is present Double quote ("...") & We can also use Single quote('...').
 
     return 0;
 }
